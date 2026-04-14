@@ -68,13 +68,13 @@ This system is a **console-based Java application** that simulates real-world bu
 * Easy to use
 * Scalable for future enhancements
 
-9. Limitations
+⚠️ 9. Limitations
 
 * Console-based (no GUI)
 * No database (data not stored permanently)
 * Limited features compared to real-world systems
 
-10. Future Enhancements
+🔥 10. Future Enhancements
 
 * Add **GUI (Swing / JavaFX)**
 * Integrate **MySQL database (JDBC)**
